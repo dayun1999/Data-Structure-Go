@@ -1,0 +1,6 @@
+package Sorting
+
+//
+func GnomeSort() {
+
+}
