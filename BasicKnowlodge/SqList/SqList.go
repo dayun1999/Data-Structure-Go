@@ -2,7 +2,7 @@
 package SqList
 
 import (
-	. "dataStructureGo/TextBook/01_PreDefinition" //为了使用status.go里面预定义的变量
+	. "dataStructureGo/TextBook/Status" //为了使用status.go里面预定义的变量
 )
 
 //宏定义
